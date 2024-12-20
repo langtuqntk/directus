@@ -1,2 +1,2 @@
 directus/readme.md
-deploy 1
+deploy 2
